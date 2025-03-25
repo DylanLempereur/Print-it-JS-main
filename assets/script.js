@@ -47,7 +47,7 @@ right.addEventListener("click", () => {
 }else {
 	if(i === 4) {
 		i++;
-		i = 15;
+		i = 0;
 console.log(i);
 
 	
